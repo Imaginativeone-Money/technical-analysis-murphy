@@ -17,6 +17,13 @@ Acknowledgements xxxi
   Random Walk Theory
   Universal Principles
 04 Dow Theory
+  Introduction 23
+  Basic Tenets 24
+  The Use of Closing Prices and the Presence of Lines 030
+  Some Criticisms of Dow Theory 031
+  Stocks as Economic Indicators 032
+  Dow Theory Applied to Futures Trading 032
+  Conclusion 033
 0* Chart Construction
 0* Basic Concepts of Trend
 05 Major Reversal Patterns
