@@ -1,12 +1,10 @@
 Study Guide to Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications (New York Institute of Finance S)
   Contents
-
   About the Author
   About the Contributors
   Introduction xxvii
   Acknowledgements xxxi
-
-  03 Philosophy of Technical Analysis
+  01 Philosophy of Technical Analysis
     Flexibility and Adaptability of Technical Analysis
     Technical Analysis Applied to Different Trading Mediums
     Technical Analysis Applied to Different Time Dimensions
@@ -17,7 +15,7 @@ Study Guide to Technical Analysis of the Financial Markets: A Comprehensive Guid
     Some Criticisms of the Technical Approach
     Random Walk Theory
     Universal Principles
-  04 Dow Theory
+  02 Dow Theory
     Introduction 23
     Basic Tenets 24
     The Use of Closing Prices and the Presence of Lines 030
@@ -25,7 +23,7 @@ Study Guide to Technical Analysis of the Financial Markets: A Comprehensive Guid
     Stocks as Economic Indicators 032
     Dow Theory Applied to Futures Trading 032
     Conclusion 033
-  0* Chart Construction 035
+  03 Chart Construction 035
     Introduction 035
     Types of Charts Available 036
     Candlesticks 037
@@ -35,7 +33,7 @@ Study Guide to Technical Analysis of the Financial Markets: A Comprehensive Guid
     Futures Open Interest
     Weekly and Monthly Bar Charts
     Conclusion
-  0* Basic Concepts of Trend
+  04 Basic Concepts of Trend
     Definition of Trend
     Trend has Three Directions
     Trend has Three Classifications
@@ -290,5 +288,14 @@ Study Guide to Technical Analysis of the Financial Markets: A Comprehensive Guid
     Step 5: Evaluate Results 500
     Money Management 501
     Conclusion 501
-  DD Continuous Futures Contracts
+  Appendix D Continuous Futures Contracts 505
+    Nearest Contract 506
+    Next Contract 506
+    Gann Contract 507
+    Continuous Contracts 507
+    Constant Forward Continuous Contracts 508
+  Glossary 511
+  Selected Bibliography 523
+  Selected Resources 527
+  Index 531
   
