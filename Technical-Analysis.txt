@@ -67,6 +67,19 @@ Study Guide to Technical Analysis of the Financial Markets: A Comprehensive Guid
     Saucers and Spikes
     Conclusion
   06 Continuation Patterns
+    Introduction
+    Triangles
+    The Symmetrical Triangle
+    The Ascending Triangle
+    The Descending Triangle
+    The Broadening Formation
+    Flags and Pennants
+    The Wedge Formation
+    The Rectangle Formation
+    The Measured Move
+    The Continuation Head and Shoulders Pattern
+    Confirmation and Divergence
+    Conclusion
   07 Volume and Open Interest
   08 Long Term Charts
   0* Moving Averages
