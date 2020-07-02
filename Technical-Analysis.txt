@@ -260,7 +260,19 @@ Study Guide to Technical Analysis of the Financial Markets: A Comprehensive Guid
     Comparing Market Averages 449
     Conclusion 452
   19 Putting It All Together - A Checklist
-  AA Advanced Technical Indicators
+    Technical Checklist 454
+    How to Coordinate Technical and Fundamental Analysis 455
+    Chartered Market Technician (CMT) 456
+    Market Technicians Association (MTA) 457
+    The Global Reach of Technical Analysis 458
+    Technical Analysis by Any Name 458
+    Federal Reserve Finally Approves 459
+    Conclusion 460
+  Appendix A Advanced Technical Indicators
+    Demand Index (DI) 463
+    Herrick Payoff Index (HPI) 466
+    Starc Bands and Keltner Channels 469
+    Formula for Demand Index 473
   BB Market Profile
   CC The Essentials of Building a Trading System
   DD Continuous Futures Contracts
