@@ -120,8 +120,27 @@ Study Guide to Technical Analysis of the Financial Markets: A Comprehensive Guid
     Summary 221
     The Adaptive Moving Average 222
     Alternatives to the Moving Average 223
-  0* Oscillators and Contrary Opinion
-  0* Point and Figure Charting
+  10 Oscillators and Contrary Opinion
+    Introduction 225
+    Oscillator Usage in Conjunction with Trend
+    Measuring Momentum 228
+    Measuring Rate of Change (ROC) 234
+    Constructing an Oscillator Using Two Moving Averages 234
+    Commodity Channel Index 237
+    The Relative Strength Index 239
+    Using the 70 and 30 Lines to Generate Signals 245
+    Stochastics (K%D) 246
+    Larry Williams %R 249
+    The Importance of Trend 251
+    When Oscillators are Most Useful 251
+    Moving Average Convergence/Divergence (MACD) 252
+    MACD Histogram 255
+    Combine Weeklies and Dailies 256
+    The Principle of Contrary Opinion in Futures 257
+    Investor Sentiment Readings 261
+    Investor Intelligence Numbers 262
+  11 Point and Figure Charting
+    
   12 Japanese Candlesticks
   0* Eliott Wave Theory - 13
   14 Time Cycles
