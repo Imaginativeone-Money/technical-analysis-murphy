@@ -25,7 +25,16 @@ Study Guide to Technical Analysis of the Financial Markets: A Comprehensive Guid
     Stocks as Economic Indicators 032
     Dow Theory Applied to Futures Trading 032
     Conclusion 033
-  0* Chart Construction
+  0* Chart Construction 035
+    Introduction 035
+    Types of Charts Available 036
+    Candlesticks 037
+    Arithmetic vs Logarithmic Scale
+    Construction of the Daily Bar Chart
+    Volume
+    Futures Open Interest
+    Weekly and Monthly Bar Charts
+    Conclusion
   0* Basic Concepts of Trend
   05 Major Reversal Patterns
   06 Continuation Patterns
@@ -46,3 +55,4 @@ Study Guide to Technical Analysis of the Financial Markets: A Comprehensive Guid
   BB Market Profile
   CC The Essentials of Building a Trading System
   DD Continuous Futures Contracts
+  
