@@ -53,6 +53,19 @@ Study Guide to Technical Analysis of the Financial Markets: A Comprehensive Guid
     Price Gaps
     Conclusion
   05 Major Reversal Patterns
+    Introduction
+    Price Patterns
+    Two Types of Patterns: Reversal and Continuation
+    The Head and Shoulders Continuation Pattern
+    The Importance of Volume
+    Finding a Price Objective
+    The Inverse Head and Shoulders
+    Complex Head and Shoulders
+    Triple Tops and Bottoms
+    Double Tops and Bottoms
+    Variations from the Ideal Pattern
+    Saucers and Spikes
+    Conclusion
   06 Continuation Patterns
   07 Volume and Open Interest
   08 Long Term Charts
