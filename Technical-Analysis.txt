@@ -205,7 +205,24 @@ Study Guide to Technical Analysis of the Financial Markets: A Comprehensive Guid
     Test Systems or Create Your Own 390
     Conclusion 390
   16 Money Management and Trading Tactics
-  17 The Link Between Stocks and Futures: Intermarket Analysis
+    Introduction 393
+    The Three Elements of Successful Trading 393
+    Money Management 394
+    Reward to Risk Ratios 397
+    Trading Multiple Positions: Trending versus Trading Units 398
+    What to Do After Periods of Success and Adversity 399
+    Trading Tactics 400
+    Combining Technical Factors and Money Management 403
+    Types of Trading Orders 403
+    From Daily Charts to Intraday Price Charts 405
+    The Use of Intraday Pivot Points 407
+    Summary of Money Management and Trading Guidelines 408
+    Application to Stocks 409
+    Asset Allocation 409
+    Managed Accounts and Mutual Funds 410
+    Market Profile 411
+  17 The Link Between Stocks and Futures: Intermarket Analysis 413
+    
   18 Stock Market Indicators
   19 Putting It All Together - A Checklist
   AA Advanced Technical Indicators
