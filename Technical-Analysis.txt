@@ -36,6 +36,22 @@ Study Guide to Technical Analysis of the Financial Markets: A Comprehensive Guid
     Weekly and Monthly Bar Charts
     Conclusion
   0* Basic Concepts of Trend
+    Definition of Trend
+    Trend has Three Directions
+    Trend has Three Classifications
+    Support and Resistance
+    Trendlines
+    The Fan Principle
+    The Importance of the Number Three
+    The Relative Steepness of the Trend Line
+    The Channel Line
+    Percentage Retracements
+    Speed Resistance Lines
+    Gann and Fibonacci Fan Lines
+    Internal Trend Lines
+    Reversal Days
+    Price Gaps
+    Conclusion
   05 Major Reversal Patterns
   06 Continuation Patterns
   07 Volume and Open Interest
