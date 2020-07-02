@@ -281,7 +281,7 @@ Study Guide to Technical Analysis of the Financial Markets: A Comprehensive Guid
     Range Development and Profile Patterns 484
     Tracking Longer Term Market Activity 486
     Conclusion 490
-  Appendix C The Essentials of Building a Trading System
+  Appendix C The Essentials of Building a Trading System 493
     5-Step Plan 494
     Step 1: Start with a Concept (and Idea) 495
     Step 2: Turn Your Idea into a Set of Objective Rules 497
