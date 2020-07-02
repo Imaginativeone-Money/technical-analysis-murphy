@@ -163,7 +163,21 @@ Study Guide to Technical Analysis of the Financial Markets: A Comprehensive Guid
     Filtered Candle Patterns 306
     Conclusion 308
     Candle Patterns 309
-  13 Eliott Wave Theory
+  13 Eliott Wave Theory 319
+    Historical Background 319
+    The Basic Tenets of the Eliott Wave Principle 320
+    Connection Between Elliott Wave and Dow Theory 324
+    Corrective Waves 324
+    The Rule of Alternation 331
+    Channeling 332
+    Wave 4 as a Support Area 334
+    Fibonacci Numbers as the Basis of the Wave Principle 334
+    Fibonacci Ratios and Retracements 335
+    Fibonacci Time Targets 338
+    Combining All Three Aspects of Wave Theory 338
+    Elliott Wave Applied to Stocks Versus Commodities 340
+    Summary and Conclusions 341
+    Reference Material 342
   14 Time Cycles
   15 Computers and Trading Systems
   16 Money Management and Trading Tactics
