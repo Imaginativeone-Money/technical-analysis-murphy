@@ -238,7 +238,27 @@ Study Guide to Technical Analysis of the Financial Markets: A Comprehensive Guid
     Intermarket Correlation 428
     Intermarket Neural Network Software 429
     Conclusion 430
-  18 Stock Market Indicators
+  18 Stock Market Indicators 433
+    Measuring Market Breadth 433
+    Sample Data 434
+    Comparing Market Averages 435
+    The Advance-Decline Line 436
+    AD Divergence 437
+    Daily Versus Weekly AD Lines 437
+    Variations in AD Line 437
+    McClellan Oscillator 438
+    McClellan Summation Index 439
+    New Highs vs New Lows 440
+    New High - New Low Index 441
+    Upside Versus Downside Volume 443
+    The Arms Index 444
+    TRIN vs TICK 444
+    Smoothing the Arms Index 445
+    Open Arms 446
+    Equivolume Charting 447
+    Candlepower 448
+    Comparing Market Averages 449
+    Conclusion 452
   19 Putting It All Together - A Checklist
   AA Advanced Technical Indicators
   BB Market Profile
