@@ -155,7 +155,14 @@ Study Guide to Technical Analysis of the Financial Markets: A Comprehensive Guid
     Computerized P&F Charting 292
     P&F Moving Averages 294
     Conclusion 296
-  12 Japanese Candlesticks
+  12 Japanese Candlesticks 297
+    Introduction 297
+    Candlestick Charting 297
+    Basic Candlesticks 299
+    Candle Pattern Analysis 301
+    Filtered Candle Patterns 306
+    Conclusion 308
+    Candle Patterns 309
   13 Eliott Wave Theory
   14 Time Cycles
   15 Computers and Trading Systems
