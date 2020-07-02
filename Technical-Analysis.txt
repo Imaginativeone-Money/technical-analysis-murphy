@@ -81,6 +81,19 @@ Study Guide to Technical Analysis of the Financial Markets: A Comprehensive Guid
     Confirmation and Divergence
     Conclusion
   07 Volume and Open Interest
+    Introduction
+    Volume and Open Interest as Secondary Indicators
+    Interpretation of Volume for All Markets
+    Interpretation of Open Interest in Futures
+    Summary of Volume and Open Interest Rules
+    Blowoffs and Selling Climaxes
+    Commitments of Traders Report
+    Watch the Commercials
+    Net Trader Positions
+    Open Interest in Options
+    Put/Call Ratios
+    Combine Option Sentiment with Technicals
+    Conclusion 179
   08 Long Term Charts
   0* Moving Averages
   0* Oscillators and Contrary Opinion
