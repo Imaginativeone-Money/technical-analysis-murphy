@@ -194,7 +194,16 @@ Study Guide to Technical Analysis of the Financial Markets: A Comprehensive Guid
     Combining Cycles with Other Technical Tools 374
     Maximum Entropy Spectral Analysis 374
     Cycle Reading and Software 375
-  15 Computers and Trading Systems
+  15 Computers and Trading Systems 377
+    Introduction 377
+    Some Computer Needs 379
+    Grouping Tools and Indicators 380
+    Using the Tools and Indicators 380
+    Welles Wilder's Parabolic and Directional Movement Systems 381
+    Pros and Cons of System Trading 387
+    Need Expert Help? 389
+    Test Systems or Create Your Own 390
+    Conclusion 390
   16 Money Management and Trading Tactics
   17 The Link Between Stocks and Futures: Intermarket Analysis
   18 Stock Market Indicators
