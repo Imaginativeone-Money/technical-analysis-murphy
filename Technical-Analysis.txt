@@ -178,7 +178,22 @@ Study Guide to Technical Analysis of the Financial Markets: A Comprehensive Guid
     Elliott Wave Applied to Stocks Versus Commodities 340
     Summary and Conclusions 341
     Reference Material 342
-  14 Time Cycles
+  14 Time Cycles 343
+    Introduction 343
+    Cycles 344
+    How Cyclic Concepts Help Explain Charting Techniques 355
+    Dominant Cycles 358
+    Combining Cycle Lengths 361
+    The Importance of Trend 361
+    Left and Right Translation 362
+    How to Isolate Cycles 363
+    Seasonal Cycles 369
+    Stock Market Cycles 373
+    The January Barometer 373
+    The Presidential Cycle 373
+    Combining Cycles with Other Technical Tools 374
+    Maximum Entropy Spectral Analysis 374
+    Cycle Reading and Software 375
   15 Computers and Trading Systems
   16 Money Management and Trading Tactics
   17 The Link Between Stocks and Futures: Intermarket Analysis
