@@ -1,0 +1,40 @@
+Contents
+
+About the Author
+About the Contributors
+Introduction xxvii
+Acknowledgements xxxi
+
+03 Philosophy of Technical Analysis
+  Flexibility and Adaptability of Technical Analysis
+  Technical Analysis Applied to Different Trading Mediums
+  Technical Analysis Applied to Different Time Dimensions
+  Economic Forecasting
+  Technician or Chartist?
+  A Brief Comparison of Technical Analysis in Stocks and Futures
+  Less Reliance of Market Averages and Indicators
+  Some Criticisms of the Technical Approach
+  Random Walk Theory
+  Universal Principles
+04 Dow Theory
+0* Chart Construction
+0* Basic Concepts of Trend
+05 Major Reversal Patterns
+06 Continuation Patterns
+07 Volume and Open Interest
+08 Long Term Charts
+0* Moving Averages
+0* Oscillators and Contrary Opinion
+0* Point and Figure Charting
+12 Japanese Candlesticks
+0* Eliott Wave Theory - 13
+14 Time Cycles
+15 Computers and Trading Systems
+16 Money Management and Trading Tactics
+17 The Link Between Stocks and Futures: Intermarket Analysis
+18 Stock Market Indicators
+19 Putting It All Together - A Checklist
+AA Advanced Technical Indicators
+BB Market Profile
+CC The Essentials of Building a Trading System
+DD Continuous Futures Contracts
