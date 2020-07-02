@@ -105,7 +105,21 @@ Study Guide to Technical Analysis of the Financial Markets: A Comprehensive Guid
     Why Should Long Term Charts Be Adjusted for Inflation? 186
     Long Term Charts Not Intended for Trading Purposes 188
     Examples of Long Term Charts 188
-  0* Moving Averages
+  09 Moving Averages
+    Introduction
+    The Moving Average: A Smoothing Device with a Time Lag 197
+    Moving Average Envelopes
+    Bollinger Bands
+    Using Bollinger Bands as Targets
+    Band Width Measures Volatility
+    Moving Averages Tied to Cycles
+    Fibonacci Numbers Used as Moving Averages
+    Moving Averages Applied to Long Term Charts 213
+    The Weekly Rule 215
+    To Optimize or Not 220
+    Summary 221
+    The Adaptive Moving Average 222
+    Alternatives to the Moving Average 223
   0* Oscillators and Contrary Opinion
   0* Point and Figure Charting
   12 Japanese Candlesticks
