@@ -139,10 +139,24 @@ Study Guide to Technical Analysis of the Financial Markets: A Comprehensive Guid
     The Principle of Contrary Opinion in Futures 257
     Investor Sentiment Readings 261
     Investor Intelligence Numbers 262
-  11 Point and Figure Charting
-    
+  11 Point and Figure Charting 265
+    Introduction 266
+    The Point and Figure Versus the Bar Chart 270
+    Construction of the Intraday Point and Figure Chart 270
+    The Horizontal Count 274
+    Price Patterns 275
+    3 Box Reversal Point and Figure Charting 277
+    Construction of the 3 Point Reversal Chart 278
+    The Drawing of Trendlines 282
+    Measuring Techniques 286
+    Trading Tactics 286
+    Advantages of Point and Figure Charts 288
+    P&F Technical Indicators 292
+    Computerized P&F Charting 292
+    P&F Moving Averages 294
+    Conclusion 296
   12 Japanese Candlesticks
-  0* Eliott Wave Theory - 13
+  13 Eliott Wave Theory
   14 Time Cycles
   15 Computers and Trading Systems
   16 Money Management and Trading Tactics
