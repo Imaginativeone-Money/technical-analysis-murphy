@@ -273,7 +273,22 @@ Study Guide to Technical Analysis of the Financial Markets: A Comprehensive Guid
     Herrick Payoff Index (HPI) 466
     Starc Bands and Keltner Channels 469
     Formula for Demand Index 473
-  BB Market Profile
-  CC The Essentials of Building a Trading System
+  Appendix B Market Profile 475
+    Introduction 475
+    Market Profile Graphic 478
+    Market Structure 479
+    Market Profile Organizing Principles 480
+    Range Development and Profile Patterns 484
+    Tracking Longer Term Market Activity 486
+    Conclusion 490
+  Appendix C The Essentials of Building a Trading System
+    5-Step Plan 494
+    Step 1: Start with a Concept (and Idea) 495
+    Step 2: Turn Your Idea into a Set of Objective Rules 497
+    Step 3: Visually Check It Out on the Charts 497
+    Step 4: Formally Test It with a Computer 497
+    Step 5: Evaluate Results 500
+    Money Management 501
+    Conclusion 501
   DD Continuous Futures Contracts
   
