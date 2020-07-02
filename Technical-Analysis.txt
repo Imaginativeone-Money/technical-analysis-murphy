@@ -95,6 +95,16 @@ Study Guide to Technical Analysis of the Financial Markets: A Comprehensive Guid
     Combine Option Sentiment with Technicals
     Conclusion 179
   08 Long Term Charts
+    Introduction 181
+    The Importance of Longer Range Perspective
+    Construction of Continuation Charts for Futures
+    The Perpetual Contract(TM)
+    Long Term Trends Dispute Randomness
+    Patterns on Charts: Weekly and Monthly Reversals 185
+    Long Term to Short Term Charts 185
+    Why Should Long Term Charts Be Adjusted for Inflation? 186
+    Long Term Charts Not Intended for Trading Purposes 188
+    Examples of Long Term Charts 188
   0* Moving Averages
   0* Oscillators and Contrary Opinion
   0* Point and Figure Charting
