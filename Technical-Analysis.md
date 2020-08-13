@@ -1,301 +1,300 @@
-Study Guide to Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications (New York Institute of Finance S)
-- [x] Contents
-- [x] About the Author
-  About the Contributors
-  Introduction xxvii
-  Acknowledgements xxxi
-  01 Philosophy of Technical Analysis
-    Flexibility and Adaptability of Technical Analysis
-    Technical Analysis Applied to Different Trading Mediums
-    Technical Analysis Applied to Different Time Dimensions
-    Economic Forecasting
-    Technician or Chartist?
-    A Brief Comparison of Technical Analysis in Stocks and Futures
-    Less Reliance of Market Averages and Indicators
-    Some Criticisms of the Technical Approach
-    Random Walk Theory
-    Universal Principles
-  02 Dow Theory
-    Introduction 23
-    Basic Tenets 24
-    The Use of Closing Prices and the Presence of Lines 030
-    Some Criticisms of Dow Theory 031
-    Stocks as Economic Indicators 032
-    Dow Theory Applied to Futures Trading 032
-    Conclusion 033
-  03 Chart Construction 035
-    Introduction 035
-    Types of Charts Available 036
-    Candlesticks 037
-    Arithmetic vs Logarithmic Scale
-    Construction of the Daily Bar Chart
-    Volume
-    Futures Open Interest
-    Weekly and Monthly Bar Charts
-    Conclusion
-  04 Basic Concepts of Trend
-    Definition of Trend
-    Trend has Three Directions
-    Trend has Three Classifications
-    Support and Resistance
-    Trendlines
-    The Fan Principle
-    The Importance of the Number Three
-    The Relative Steepness of the Trend Line
-    The Channel Line
-    Percentage Retracements
-    Speed Resistance Lines
-    Gann and Fibonacci Fan Lines
-    Internal Trend Lines
-    Reversal Days
-    Price Gaps
-    Conclusion
-  05 Major Reversal Patterns
-    Introduction
-    Price Patterns
-    Two Types of Patterns: Reversal and Continuation
-    The Head and Shoulders Continuation Pattern
-    The Importance of Volume
-    Finding a Price Objective
-    The Inverse Head and Shoulders
-    Complex Head and Shoulders
-    Triple Tops and Bottoms
-    Double Tops and Bottoms
-    Variations from the Ideal Pattern
-    Saucers and Spikes
-    Conclusion
-  06 Continuation Patterns
-    Introduction
-    Triangles
-    The Symmetrical Triangle
-    The Ascending Triangle
-    The Descending Triangle
-    The Broadening Formation
-    Flags and Pennants
-    The Wedge Formation
-    The Rectangle Formation
-    The Measured Move
-    The Continuation Head and Shoulders Pattern
-    Confirmation and Divergence
-    Conclusion
-  07 Volume and Open Interest
-    Introduction
-    Volume and Open Interest as Secondary Indicators
-    Interpretation of Volume for All Markets
-    Interpretation of Open Interest in Futures
-    Summary of Volume and Open Interest Rules
-    Blowoffs and Selling Climaxes
-    Commitments of Traders Report
-    Watch the Commercials
-    Net Trader Positions
-    Open Interest in Options
-    Put/Call Ratios
-    Combine Option Sentiment with Technicals
-    Conclusion 179
-  08 Long Term Charts
-    Introduction 181
-    The Importance of Longer Range Perspective
-    Construction of Continuation Charts for Futures
-    The Perpetual Contract(TM)
-    Long Term Trends Dispute Randomness
-    Patterns on Charts: Weekly and Monthly Reversals 185
-    Long Term to Short Term Charts 185
-    Why Should Long Term Charts Be Adjusted for Inflation? 186
-    Long Term Charts Not Intended for Trading Purposes 188
-    Examples of Long Term Charts 188
-  09 Moving Averages
-    Introduction
-    The Moving Average: A Smoothing Device with a Time Lag 197
-    Moving Average Envelopes
-    Bollinger Bands
-    Using Bollinger Bands as Targets
-    Band Width Measures Volatility
-    Moving Averages Tied to Cycles
-    Fibonacci Numbers Used as Moving Averages
-    Moving Averages Applied to Long Term Charts 213
-    The Weekly Rule 215
-    To Optimize or Not 220
-    Summary 221
-    The Adaptive Moving Average 222
-    Alternatives to the Moving Average 223
-  10 Oscillators and Contrary Opinion
-    Introduction 225
-    Oscillator Usage in Conjunction with Trend
-    Measuring Momentum 228
-    Measuring Rate of Change (ROC) 234
-    Constructing an Oscillator Using Two Moving Averages 234
-    Commodity Channel Index 237
-    The Relative Strength Index 239
-    Using the 70 and 30 Lines to Generate Signals 245
-    Stochastics (K%D) 246
-    Larry Williams %R 249
-    The Importance of Trend 251
-    When Oscillators are Most Useful 251
-    Moving Average Convergence/Divergence (MACD) 252
-    MACD Histogram 255
-    Combine Weeklies and Dailies 256
-    The Principle of Contrary Opinion in Futures 257
-    Investor Sentiment Readings 261
-    Investor Intelligence Numbers 262
-  11 Point and Figure Charting 265
-    Introduction 266
-    The Point and Figure Versus the Bar Chart 270
-    Construction of the Intraday Point and Figure Chart 270
-    The Horizontal Count 274
-    Price Patterns 275
-    3 Box Reversal Point and Figure Charting 277
-    Construction of the 3 Point Reversal Chart 278
-    The Drawing of Trendlines 282
-    Measuring Techniques 286
-    Trading Tactics 286
-    Advantages of Point and Figure Charts 288
-    P&F Technical Indicators 292
-    Computerized P&F Charting 292
-    P&F Moving Averages 294
-    Conclusion 296
-  12 Japanese Candlesticks 297
-    Introduction 297
-    Candlestick Charting 297
-    Basic Candlesticks 299
-    Candle Pattern Analysis 301
-    Filtered Candle Patterns 306
-    Conclusion 308
-    Candle Patterns 309
-  13 Eliott Wave Theory 319
-    Historical Background 319
-    The Basic Tenets of the Eliott Wave Principle 320
-    Connection Between Elliott Wave and Dow Theory 324
-    Corrective Waves 324
-    The Rule of Alternation 331
-    Channeling 332
-    Wave 4 as a Support Area 334
-    Fibonacci Numbers as the Basis of the Wave Principle 334
-    Fibonacci Ratios and Retracements 335
-    Fibonacci Time Targets 338
-    Combining All Three Aspects of Wave Theory 338
-    Elliott Wave Applied to Stocks Versus Commodities 340
-    Summary and Conclusions 341
-    Reference Material 342
-  14 Time Cycles 343
-    Introduction 343
-    Cycles 344
-    How Cyclic Concepts Help Explain Charting Techniques 355
-    Dominant Cycles 358
-    Combining Cycle Lengths 361
-    The Importance of Trend 361
-    Left and Right Translation 362
-    How to Isolate Cycles 363
-    Seasonal Cycles 369
-    Stock Market Cycles 373
-    The January Barometer 373
-    The Presidential Cycle 373
-    Combining Cycles with Other Technical Tools 374
-    Maximum Entropy Spectral Analysis 374
-    Cycle Reading and Software 375
-  15 Computers and Trading Systems 377
-    Introduction 377
-    Some Computer Needs 379
-    Grouping Tools and Indicators 380
-    Using the Tools and Indicators 380
-    Welles Wilder's Parabolic and Directional Movement Systems 381
-    Pros and Cons of System Trading 387
-    Need Expert Help? 389
-    Test Systems or Create Your Own 390
-    Conclusion 390
-  16 Money Management and Trading Tactics
-    Introduction 393
-    The Three Elements of Successful Trading 393
-    Money Management 394
-    Reward to Risk Ratios 397
-    Trading Multiple Positions: Trending versus Trading Units 398
-    What to Do After Periods of Success and Adversity 399
-    Trading Tactics 400
-    Combining Technical Factors and Money Management 403
-    Types of Trading Orders 403
-    From Daily Charts to Intraday Price Charts 405
-    The Use of Intraday Pivot Points 407
-    Summary of Money Management and Trading Guidelines 408
-    Application to Stocks 409
-    Asset Allocation 409
-    Managed Accounts and Mutual Funds 410
-    Market Profile 411
-  17 The Link Between Stocks and Futures: Intermarket Analysis 413
-    Intermarket Analysis 414
-    Program Trading: The Ultimate Link 415
-    The Link Between Bonds and Stocks 416
-    The Link Between Bonds and Commodities 418
-    The Link Between Commodities and the Dollar 419
-    Stock Sectors and Industry Groups 420
-    The Dollar and Large Caps 422
-    Intermarket Analysis and Mutual Funds 422
-    Relative Strength Analysis 423
-    Relative Strength and Sectors 424
-    Relative Strength and Individual Stocks 426
-    Top-Down Market Approach 427
-    Deflation Scenario 427
-    Intermarket Correlation 428
-    Intermarket Neural Network Software 429
-    Conclusion 430
-  18 Stock Market Indicators 433
-    Measuring Market Breadth 433
-    Sample Data 434
-    Comparing Market Averages 435
-    The Advance-Decline Line 436
-    AD Divergence 437
-    Daily Versus Weekly AD Lines 437
-    Variations in AD Line 437
-    McClellan Oscillator 438
-    McClellan Summation Index 439
-    New Highs vs New Lows 440
-    New High - New Low Index 441
-    Upside Versus Downside Volume 443
-    The Arms Index 444
-    TRIN vs TICK 444
-    Smoothing the Arms Index 445
-    Open Arms 446
-    Equivolume Charting 447
-    Candlepower 448
-    Comparing Market Averages 449
-    Conclusion 452
-  19 Putting It All Together - A Checklist
-    Technical Checklist 454
-    How to Coordinate Technical and Fundamental Analysis 455
-    Chartered Market Technician (CMT) 456
-    Market Technicians Association (MTA) 457
-    The Global Reach of Technical Analysis 458
-    Technical Analysis by Any Name 458
-    Federal Reserve Finally Approves 459
-    Conclusion 460
-  Appendix A Advanced Technical Indicators 453
-    Demand Index (DI) 463
-    Herrick Payoff Index (HPI) 466
-    Starc Bands and Keltner Channels 469
-    Formula for Demand Index 473
-  Appendix B Market Profile 475
-    Introduction 475
-    Market Profile Graphic 478
-    Market Structure 479
-    Market Profile Organizing Principles 480
-    Range Development and Profile Patterns 484
-    Tracking Longer Term Market Activity 486
-    Conclusion 490
-  Appendix C The Essentials of Building a Trading System 493
-    5-Step Plan 494
-    Step 1: Start with a Concept (and Idea) 495
-    Step 2: Turn Your Idea into a Set of Objective Rules 497
-    Step 3: Visually Check It Out on the Charts 497
-    Step 4: Formally Test It with a Computer 497
-    Step 5: Evaluate Results 500
-    Money Management 501
-    Conclusion 501
-  Appendix D Continuous Futures Contracts 505
-    Nearest Contract 506
-    Next Contract 506
-    Gann Contract 507
-    Continuous Contracts 507
-    Constant Forward Continuous Contracts 508
-  Glossary 511
-  Selected Bibliography 523
-  Selected Resources 527
-  Index 531
-  
+- [ ] Study Guide to Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications (New York Institute of Finance S)
+- [ ] Contents
+- [ ] About the Author
+- [ ] About the Contributors
+- [ ] Introduction xxvii
+- [ ] Acknowledgements xxxi
+  - [ ] 01 Philosophy of Technical Analysis
+    - [ ] Flexibility and Adaptability of Technical Analysis
+    - [ ] Technical Analysis Applied to Different Trading Mediums
+    - [ ] Technical Analysis Applied to Different Time Dimensions
+    - [ ] Economic Forecasting
+    - [ ] Technician or Chartist?
+    - [ ] A Brief Comparison of Technical Analysis in Stocks and Futures
+    - [ ] Less Reliance of Market Averages and Indicators
+    - [ ] Some Criticisms of the Technical Approach
+    - [ ] Random Walk Theory
+    - [ ] Universal Principles
+  - [ ] 02 Dow Theory
+    - [ ] Introduction 23
+    - [ ] Basic Tenets 24
+    - [ ] The Use of Closing Prices and the Presence of Lines 030
+    - [ ] Some Criticisms of Dow Theory 031
+    - [ ] Stocks as Economic Indicators 032
+    - [ ] Dow Theory Applied to Futures Trading 032
+    - [ ] Conclusion 033
+  - [ ] 03 Chart Construction 035
+    - [ ] Introduction 035
+    - [ ] Types of Charts Available 036
+    - [ ] Candlesticks 037
+    - [ ] Arithmetic vs Logarithmic Scale
+    - [ ] Construction of the Daily Bar Chart
+    - [ ] Volume
+    - [ ] Futures Open Interest
+    - [ ] Weekly and Monthly Bar Charts
+    - [ ] Conclusion
+  - [ ] 04 Basic Concepts of Trend
+    - [ ] Definition of Trend
+    - [ ] Trend has Three Directions
+    - [ ] Trend has Three Classifications
+    - [ ] Support and Resistance
+    - [ ] Trendlines
+    - [ ] The Fan Principle
+    - [ ] The Importance of the Number Three
+    - [ ] The Relative Steepness of the Trend Line
+    - [ ] The Channel Line
+    - [ ] Percentage Retracements
+    - [ ] Speed Resistance Lines
+    - [ ] Gann and Fibonacci Fan Lines
+    - [ ] Internal Trend Lines
+    - [ ] Reversal Days
+    - [ ] Price Gaps
+    - [ ] Conclusion
+  - [ ] 05 Major Reversal Patterns
+    - [ ] Introduction
+    - [ ] Price Patterns
+    - [ ] Two Types of Patterns: Reversal and Continuation
+    - [ ] The Head and Shoulders Continuation Pattern
+    - [ ] The Importance of Volume
+    - [ ] Finding a Price Objective
+    - [ ] The Inverse Head and Shoulders
+    - [ ] Complex Head and Shoulders
+    - [ ] Triple Tops and Bottoms
+    - [ ] Double Tops and Bottoms
+    - [ ] Variations from the Ideal Pattern
+    - [ ] Saucers and Spikes
+    - [ ] Conclusion
+  - [ ] 06 Continuation Patterns
+    - [ ] Introduction
+    - [ ] Triangles
+    - [ ] The Symmetrical Triangle
+    - [ ] The Ascending Triangle
+    - [ ] The Descending Triangle
+    - [ ] The Broadening Formation
+    - [ ] Flags and Pennants
+    - [ ] The Wedge Formation
+    - [ ] The Rectangle Formation
+    - [ ] The Measured Move
+    - [ ] The Continuation Head and Shoulders Pattern
+    - [ ] Confirmation and Divergence
+    - [ ] Conclusion
+  - [ ] 07 Volume and Open Interest
+    - [ ] Introduction
+    - [ ] Volume and Open Interest as Secondary Indicators
+    - [ ] Interpretation of Volume for All Markets
+    - [ ] Interpretation of Open Interest in Futures
+    - [ ] Summary of Volume and Open Interest Rules
+    - [ ] Blowoffs and Selling Climaxes
+    - [ ] Commitments of Traders Report
+    - [ ] Watch the Commercials
+    - [ ] Net Trader Positions
+    - [ ] Open Interest in Options
+    - [ ] Put/Call Ratios
+    - [ ] Combine Option Sentiment with Technicals
+    - [ ] Conclusion 179
+  - [ ] 08 Long Term Charts
+    - [ ] Introduction 181
+    - [ ] The Importance of Longer Range Perspective
+    - [ ] Construction of Continuation Charts for Futures
+    - [ ] The Perpetual Contract(TM)
+    - [ ] Long Term Trends Dispute Randomness
+    - [ ] Patterns on Charts: Weekly and Monthly Reversals 185
+    - [ ] Long Term to Short Term Charts 185
+    - [ ] Why Should Long Term Charts Be Adjusted for Inflation? 186
+    - [ ] Long Term Charts Not Intended for Trading Purposes 188
+    - [ ] Examples of Long Term Charts 188
+  - [ ] 09 Moving Averages
+    - [ ] Introduction
+    - [ ] The Moving Average: A Smoothing Device with a Time Lag 197
+    - [ ] Moving Average Envelopes
+    - [ ] Bollinger Bands
+    - [ ] Using Bollinger Bands as Targets
+    - [ ] Band Width Measures Volatility
+    - [ ] Moving Averages Tied to Cycles
+    - [ ] Fibonacci Numbers Used as Moving Averages
+    - [ ] Moving Averages Applied to Long Term Charts 213
+    - [ ] The Weekly Rule 215
+    - [ ] To Optimize or Not 220
+    - [ ] Summary 221
+    - [ ] The Adaptive Moving Average 222
+    - [ ] Alternatives to the Moving Average 223
+  - [ ] 10 Oscillators and Contrary Opinion
+    - [ ] Introduction 225
+    - [ ] Oscillator Usage in Conjunction with Trend
+    - [ ] Measuring Momentum 228
+    - [ ] Measuring Rate of Change (ROC) 234
+    - [ ] Constructing an Oscillator Using Two Moving Averages 234
+    - [ ] Commodity Channel Index 237
+    - [ ] The Relative Strength Index 239
+    - [ ] Using the 70 and 30 Lines to Generate Signals 245
+    - [ ] Stochastics (K%D) 246
+    - [ ] Larry Williams %R 249
+    - [ ] The Importance of Trend 251
+    - [ ] When Oscillators are Most Useful 251
+    - [ ] Moving Average Convergence/Divergence (MACD) 252
+    - [ ] MACD Histogram 255
+    - [ ] Combine Weeklies and Dailies 256
+    - [ ] The Principle of Contrary Opinion in Futures 257
+    - [ ] Investor Sentiment Readings 261
+    - [ ] Investor Intelligence Numbers 262
+  - [ ] 11 Point and Figure Charting 265
+    - [ ] Introduction 266
+    - [ ] The Point and Figure Versus the Bar Chart 270
+    - [ ] Construction of the Intraday Point and Figure Chart 270
+    - [ ] The Horizontal Count 274
+    - [ ] Price Patterns 275
+    - [ ] 3 Box Reversal Point and Figure Charting 277
+    - [ ] Construction of the 3 Point Reversal Chart 278
+    - [ ] The Drawing of Trendlines 282
+    - [ ] Measuring Techniques 286
+    - [ ] Trading Tactics 286
+    - [ ] Advantages of Point and Figure Charts 288
+    - [ ] P&F Technical Indicators 292
+    - [ ] Computerized P&F Charting 292
+    - [ ] P&F Moving Averages 294
+    - [ ] Conclusion 296
+  - [ ] 12 Japanese Candlesticks 297
+    - [ ] Introduction 297
+    - [ ] Candlestick Charting 297
+    - [ ] Basic Candlesticks 299
+    - [ ] Candle Pattern Analysis 301
+    - [ ] Filtered Candle Patterns 306
+    - [ ] Conclusion 308
+    - [ ] Candle Patterns 309
+  - [ ] 13 Eliott Wave Theory 319
+    - [ ] Historical Background 319
+    - [ ] The Basic Tenets of the Eliott Wave Principle 320
+    - [ ] Connection Between Elliott Wave and Dow Theory 324
+    - [ ] Corrective Waves 324
+    - [ ] The Rule of Alternation 331
+    - [ ] Channeling 332
+    - [ ] Wave 4 as a Support Area 334
+    - [ ] Fibonacci Numbers as the Basis of the Wave Principle 334
+    - [ ] Fibonacci Ratios and Retracements 335
+    - [ ] Fibonacci Time Targets 338
+    - [ ] Combining All Three Aspects of Wave Theory 338
+    - [ ] Elliott Wave Applied to Stocks Versus Commodities 340
+    - [ ] Summary and Conclusions 341
+    - [ ] Reference Material 342
+  - [ ] 14 Time Cycles 343
+    - [ ] Introduction 343
+    - [ ] Cycles 344
+    - [ ] How Cyclic Concepts Help Explain Charting Techniques 355
+    - [ ] Dominant Cycles 358
+    - [ ] Combining Cycle Lengths 361
+    - [ ] The Importance of Trend 361
+    - [ ] Left and Right Translation 362
+    - [ ] How to Isolate Cycles 363
+    - [ ] Seasonal Cycles 369
+    - [ ] Stock Market Cycles 373
+    - [ ] The January Barometer 373
+    - [ ] The Presidential Cycle 373
+    - [ ] Combining Cycles with Other Technical Tools 374
+    - [ ] Maximum Entropy Spectral Analysis 374
+    - [ ] Cycle Reading and Software 375
+  - [ ] 15 Computers and Trading Systems 377
+    - [ ] Introduction 377
+    - [ ] Some Computer Needs 379
+    - [ ] Grouping Tools and Indicators 380
+    - [ ] Using the Tools and Indicators 380
+    - [ ] Welles Wilder's Parabolic and Directional Movement Systems 381
+    - [ ] Pros and Cons of System Trading 387
+    - [ ] Need Expert Help? 389
+    - [ ] Test Systems or Create Your Own 390
+    - [ ] Conclusion 390
+  - [ ] 16 Money Management and Trading Tactics
+    - [ ] Introduction 393
+    - [ ] The Three Elements of Successful Trading 393
+    - [ ] Money Management 394
+    - [ ] Reward to Risk Ratios 397
+    - [ ] Trading Multiple Positions: Trending versus Trading Units 398
+    - [ ] What to Do After Periods of Success and Adversity 399
+    - [ ] Trading Tactics 400
+    - [ ] Combining Technical Factors and Money Management 403
+    - [ ] Types of Trading Orders 403
+    - [ ] From Daily Charts to Intraday Price Charts 405
+    - [ ] The Use of Intraday Pivot Points 407
+    - [ ] Summary of Money Management and Trading Guidelines 408
+    - [ ] Application to Stocks 409
+    - [ ] Asset Allocation 409
+    - [ ] Managed Accounts and Mutual Funds 410
+    - [ ] Market Profile 411
+  - [ ] 17 The Link Between Stocks and Futures: Intermarket Analysis 413
+    - [ ] Intermarket Analysis 414
+    - [ ] Program Trading: The Ultimate Link 415
+    - [ ] The Link Between Bonds and Stocks 416
+    - [ ] The Link Between Bonds and Commodities 418
+    - [ ] The Link Between Commodities and the Dollar 419
+    - [ ] Stock Sectors and Industry Groups 420
+    - [ ] The Dollar and Large Caps 422
+    - [ ] Intermarket Analysis and Mutual Funds 422
+    - [ ] Relative Strength Analysis 423
+    - [ ] Relative Strength and Sectors 424
+    - [ ] Relative Strength and Individual Stocks 426
+    - [ ] Top-Down Market Approach 427
+    - [ ] Deflation Scenario 427
+    - [ ] Intermarket Correlation 428
+    - [ ] Intermarket Neural Network Software 429
+    - [ ] Conclusion 430
+  - [ ] 18 Stock Market Indicators 433
+    - [ ] Measuring Market Breadth 433
+    - [ ] Sample Data 434
+    - [ ] Comparing Market Averages 435
+    - [ ] The Advance-Decline Line 436
+    - [ ] AD Divergence 437
+    - [ ] Daily Versus Weekly AD Lines 437
+    - [ ] Variations in AD Line 437
+    - [ ] McClellan Oscillator 438
+    - [ ] McClellan Summation Index 439
+    - [ ] New Highs vs New Lows 440
+    - [ ] New High - New Low Index 441
+    - [ ] Upside Versus Downside Volume 443
+    - [ ] The Arms Index 444
+    - [ ] TRIN vs TICK 444
+    - [ ] Smoothing the Arms Index 445
+    - [ ] Open Arms 446
+    - [ ] Equivolume Charting 447
+    - [ ] Candlepower 448
+    - [ ] Comparing Market Averages 449
+    - [ ] Conclusion 452
+  - [ ] 19 Putting It All Together - A Checklist
+    - [ ] Technical Checklist 454
+    - [ ] How to Coordinate Technical and Fundamental Analysis 455
+    - [ ] Chartered Market Technician (CMT) 456
+    - [ ] Market Technicians Association (MTA) 457
+    - [ ] The Global Reach of Technical Analysis 458
+    - [ ] Technical Analysis by Any Name 458
+    - [ ] Federal Reserve Finally Approves 459
+    - [ ] Conclusion 460
+  - [ ] Appendix A Advanced Technical Indicators 453
+    - [ ] Demand Index (DI) 463
+    - [ ] Herrick Payoff Index (HPI) 466
+    - [ ] Starc Bands and Keltner Channels 469
+    - [ ] Formula for Demand Index 473
+  - [ ] Appendix B Market Profile 475
+    - [ ] Introduction 475
+    - [ ] Market Profile Graphic 478
+    - [ ] Market Structure 479
+    - [ ] Market Profile Organizing Principles 480
+    - [ ] Range Development and Profile Patterns 484
+    - [ ] Tracking Longer Term Market Activity 486
+    - [ ] Conclusion 490
+  - [ ] Appendix C The Essentials of Building a Trading System 493
+    - [ ] 5-Step Plan 494
+    - [ ] Step 1: Start with a Concept (and Idea) 495
+    - [ ] Step 2: Turn Your Idea into a Set of Objective Rules 497
+    - [ ] Step 3: Visually Check It Out on the Charts 497
+    - [ ] Step 4: Formally Test It with a Computer 497
+    - [ ] Step 5: Evaluate Results 500
+    - [ ] Money Management 501
+    - [ ] Conclusion 501
+  - [ ] Appendix D Continuous Futures Contracts 505
+    - [ ] Nearest Contract 506
+    - [ ] Next Contract 506
+    - [ ] Gann Contract 507
+    - [ ] Continuous Contracts 507
+    - [ ] Constant Forward Continuous Contracts 508
+  - [ ] Glossary 511
+  - [ ] Selected Bibliography 523
+  - [ ] Selected Resources 527
+  - [ ] Index 531
