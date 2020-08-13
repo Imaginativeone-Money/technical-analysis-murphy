@@ -33,15 +33,15 @@
     - [x] Futures Open Interest
     - [x] Weekly and Monthly Bar Charts
     - [x] Conclusion
-  - [ ] 04 Basic Concepts of Trend 049/543 13%
+  - [ ] 04 Basic Concepts of Trend 049/543 13% July 14, 2020 - August 13, 2020
     - [x] Definition of Trend
     - [x] Trend has Three Directions
     - [x] Trend has Three Classifications
     - [x] Support and Resistance
     - [x] Trendlines
-    - [ ] The Fan Principle ***
-    - [ ] The Importance of the Number Three
-    - [ ] The Relative Steepness of the Trend Line
+    - [x] The Fan Principle
+    - [x] The Importance of the Number Three
+    - [*] The Relative Steepness of the Trend Line 076 ***
     - [ ] The Channel Line
     - [ ] Percentage Retracements
     - [ ] Speed Resistance Lines
