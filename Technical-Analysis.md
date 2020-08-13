@@ -43,8 +43,8 @@
     - [x] The Importance of the Number Three
     - [x] The Relative Steepness of the Trend Line 076
       - How to Adjust Trendlines 077 18% 07:05
-    - [x] The Channel Line 80
-    - [ ] Percentage Retracements ***
+    - [x] The Channel Line 80 19%
+    - [ ] Percentage Retracements 85 19% ***
     - [ ] Speed Resistance Lines
     - [ ] Gann and Fibonacci Fan Lines
     - [ ] Internal Trend Lines
