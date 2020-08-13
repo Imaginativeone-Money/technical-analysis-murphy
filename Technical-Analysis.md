@@ -4,42 +4,42 @@
 - [ ] About the Contributors
 - [ ] Introduction xxvii
 - [ ] Acknowledgements xxxi
-  - [ ] 01 Philosophy of Technical Analysis
-    - [ ] Flexibility and Adaptability of Technical Analysis
-    - [ ] Technical Analysis Applied to Different Trading Mediums
-    - [ ] Technical Analysis Applied to Different Time Dimensions
-    - [ ] Economic Forecasting
-    - [ ] Technician or Chartist?
-    - [ ] A Brief Comparison of Technical Analysis in Stocks and Futures
-    - [ ] Less Reliance of Market Averages and Indicators
-    - [ ] Some Criticisms of the Technical Approach
-    - [ ] Random Walk Theory
-    - [ ] Universal Principles
-  - [ ] 02 Dow Theory
-    - [ ] Introduction 23
-    - [ ] Basic Tenets 24
-    - [ ] The Use of Closing Prices and the Presence of Lines 030
-    - [ ] Some Criticisms of Dow Theory 031
-    - [ ] Stocks as Economic Indicators 032
-    - [ ] Dow Theory Applied to Futures Trading 032
-    - [ ] Conclusion 033
-  - [ ] 03 Chart Construction 035
-    - [ ] Introduction 035
-    - [ ] Types of Charts Available 036
-    - [ ] Candlesticks 037
-    - [ ] Arithmetic vs Logarithmic Scale
-    - [ ] Construction of the Daily Bar Chart
-    - [ ] Volume
-    - [ ] Futures Open Interest
-    - [ ] Weekly and Monthly Bar Charts
-    - [ ] Conclusion
+  - [x] 01 Philosophy of Technical Analysis
+    - [x] Flexibility and Adaptability of Technical Analysis
+    - [x] Technical Analysis Applied to Different Trading Mediums
+    - [x] Technical Analysis Applied to Different Time Dimensions
+    - [x] Economic Forecasting
+    - [x] Technician or Chartist?
+    - [x] A Brief Comparison of Technical Analysis in Stocks and Futures
+    - [x] Less Reliance of Market Averages and Indicators
+    - [x] Some Criticisms of the Technical Approach
+    - [x] Random Walk Theory
+    - [x] Universal Principles
+  - [x] 02 Dow Theory
+    - [x] Introduction 23
+    - [x] Basic Tenets 24
+    - [x] The Use of Closing Prices and the Presence of Lines 030
+    - [x] Some Criticisms of Dow Theory 031
+    - [x] Stocks as Economic Indicators 032
+    - [x] Dow Theory Applied to Futures Trading 032
+    - [x] Conclusion 033
+  - [x] 03 Chart Construction 035
+    - [x] Introduction 035
+    - [x] Types of Charts Available 036
+    - [x] Candlesticks 037
+    - [x] Arithmetic vs Logarithmic Scale
+    - [x] Construction of the Daily Bar Chart
+    - [x] Volume
+    - [x] Futures Open Interest
+    - [x] Weekly and Monthly Bar Charts
+    - [x] Conclusion
   - [ ] 04 Basic Concepts of Trend
-    - [ ] Definition of Trend
-    - [ ] Trend has Three Directions
-    - [ ] Trend has Three Classifications
-    - [ ] Support and Resistance
-    - [ ] Trendlines
-    - [ ] The Fan Principle
+    - [x] Definition of Trend
+    - [x] Trend has Three Directions
+    - [x] Trend has Three Classifications
+    - [x] Support and Resistance
+    - [x] Trendlines
+    - [ ] The Fan Principle ***
     - [ ] The Importance of the Number Three
     - [ ] The Relative Steepness of the Trend Line
     - [ ] The Channel Line
