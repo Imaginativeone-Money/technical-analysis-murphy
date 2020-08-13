@@ -23,7 +23,7 @@
     - [x] Stocks as Economic Indicators 032
     - [x] Dow Theory Applied to Futures Trading 032
     - [x] Conclusion 033
-  - [x] 03 Chart Construction 035
+  - [x] 03 Chart Construction 035/543 11%
     - [x] Introduction 035
     - [x] Types of Charts Available 036
     - [x] Candlesticks 037
@@ -33,7 +33,7 @@
     - [x] Futures Open Interest
     - [x] Weekly and Monthly Bar Charts
     - [x] Conclusion
-  - [ ] 04 Basic Concepts of Trend 
+  - [ ] 04 Basic Concepts of Trend 049/543 13%
     - [x] Definition of Trend
     - [x] Trend has Three Directions
     - [x] Trend has Three Classifications
@@ -50,7 +50,7 @@
     - [ ] Reversal Days
     - [ ] Price Gaps
     - [ ] Conclusion
-  - [ ] 05 Major Reversal Patterns
+  - [ ] 05 Major Reversal Patterns 099/543
     - [ ] Introduction
     - [ ] Price Patterns
     - [ ] Two Types of Patterns: Reversal and Continuation
@@ -64,7 +64,7 @@
     - [ ] Variations from the Ideal Pattern
     - [ ] Saucers and Spikes
     - [ ] Conclusion
-  - [ ] 06 Continuation Patterns
+  - [ ] 06 Continuation Patterns 129/543
     - [ ] Introduction
     - [ ] Triangles
     - [ ] The Symmetrical Triangle
@@ -78,7 +78,7 @@
     - [ ] The Continuation Head and Shoulders Pattern
     - [ ] Confirmation and Divergence
     - [ ] Conclusion
-  - [ ] 07 Volume and Open Interest
+  - [ ] 07 Volume and Open Interest 157/543
     - [ ] Introduction
     - [ ] Volume and Open Interest as Secondary Indicators
     - [ ] Interpretation of Volume for All Markets
@@ -92,7 +92,7 @@
     - [ ] Put/Call Ratios
     - [ ] Combine Option Sentiment with Technicals
     - [ ] Conclusion 179
-  - [ ] 08 Long Term Charts
+  - [ ] 08 Long Term Charts 181/543
     - [ ] Introduction 181
     - [ ] The Importance of Longer Range Perspective
     - [ ] Construction of Continuation Charts for Futures
@@ -103,7 +103,7 @@
     - [ ] Why Should Long Term Charts Be Adjusted for Inflation? 186
     - [ ] Long Term Charts Not Intended for Trading Purposes 188
     - [ ] Examples of Long Term Charts 188
-  - [ ] 09 Moving Averages
+  - [ ] 09 Moving Averages 195/543
     - [ ] Introduction
     - [ ] The Moving Average: A Smoothing Device with a Time Lag 197
     - [ ] Moving Average Envelopes
@@ -118,7 +118,7 @@
     - [ ] Summary 221
     - [ ] The Adaptive Moving Average 222
     - [ ] Alternatives to the Moving Average 223
-  - [ ] 10 Oscillators and Contrary Opinion
+  - [ ] 10 Oscillators and Contrary Opinion 225/543
     - [ ] Introduction 225
     - [ ] Oscillator Usage in Conjunction with Trend
     - [ ] Measuring Momentum 228
@@ -137,7 +137,7 @@
     - [ ] The Principle of Contrary Opinion in Futures 257
     - [ ] Investor Sentiment Readings 261
     - [ ] Investor Intelligence Numbers 262
-  - [ ] 11 Point and Figure Charting 265
+  - [ ] 11 Point and Figure Charting 265/543 51%
     - [ ] Introduction 266
     - [ ] The Point and Figure Versus the Bar Chart 270
     - [ ] Construction of the Intraday Point and Figure Chart 270
@@ -153,7 +153,7 @@
     - [ ] Computerized P&F Charting 292
     - [ ] P&F Moving Averages 294
     - [ ] Conclusion 296
-  - [ ] 12 Japanese Candlesticks 297
+  - [ ] 12 Japanese Candlesticks 297/543 56%
     - [ ] Introduction 297
     - [ ] Candlestick Charting 297
     - [ ] Basic Candlesticks 299
@@ -161,7 +161,7 @@
     - [ ] Filtered Candle Patterns 306
     - [ ] Conclusion 308
     - [ ] Candle Patterns 309
-  - [ ] 13 Eliott Wave Theory 319
+  - [ ] 13 Eliott Wave Theory 319/543 59%
     - [ ] Historical Background 319
     - [ ] The Basic Tenets of the Eliott Wave Principle 320
     - [ ] Connection Between Elliott Wave and Dow Theory 324
@@ -176,7 +176,7 @@
     - [ ] Elliott Wave Applied to Stocks Versus Commodities 340
     - [ ] Summary and Conclusions 341
     - [ ] Reference Material 342
-  - [ ] 14 Time Cycles 343
+  - [ ] 14 Time Cycles 343/543 63%
     - [ ] Introduction 343
     - [ ] Cycles 344
     - [ ] How Cyclic Concepts Help Explain Charting Techniques 355
@@ -192,7 +192,7 @@
     - [ ] Combining Cycles with Other Technical Tools 374
     - [ ] Maximum Entropy Spectral Analysis 374
     - [ ] Cycle Reading and Software 375
-  - [ ] 15 Computers and Trading Systems 377
+  - [ ] 15 Computers and Trading Systems 377/543 68%
     - [ ] Introduction 377
     - [ ] Some Computer Needs 379
     - [ ] Grouping Tools and Indicators 380
@@ -202,7 +202,7 @@
     - [ ] Need Expert Help? 389
     - [ ] Test Systems or Create Your Own 390
     - [ ] Conclusion 390
-  - [ ] 16 Money Management and Trading Tactics
+  - [ ] 16 Money Management and Trading Tactics 393/543 71%
     - [ ] Introduction 393
     - [ ] The Three Elements of Successful Trading 393
     - [ ] Money Management 394
@@ -219,7 +219,7 @@
     - [ ] Asset Allocation 409
     - [ ] Managed Accounts and Mutual Funds 410
     - [ ] Market Profile 411
-  - [ ] 17 The Link Between Stocks and Futures: Intermarket Analysis 413
+  - [ ] 17 The Link Between Stocks and Futures: Intermarket Analysis 413/543 75%
     - [ ] Intermarket Analysis 414
     - [ ] Program Trading: The Ultimate Link 415
     - [ ] The Link Between Bonds and Stocks 416
@@ -236,7 +236,7 @@
     - [ ] Intermarket Correlation 428
     - [ ] Intermarket Neural Network Software 429
     - [ ] Conclusion 430
-  - [ ] 18 Stock Market Indicators 433
+  - [ ] 18 Stock Market Indicators 433/543 79%
     - [ ] Measuring Market Breadth 433
     - [ ] Sample Data 434
     - [ ] Comparing Market Averages 435
@@ -257,7 +257,7 @@
     - [ ] Candlepower 448
     - [ ] Comparing Market Averages 449
     - [ ] Conclusion 452
-  - [ ] 19 Putting It All Together - A Checklist
+  - [ ] 19 Putting It All Together - A Checklist 453/543 82%
     - [ ] Technical Checklist 454
     - [ ] How to Coordinate Technical and Fundamental Analysis 455
     - [ ] Chartered Market Technician (CMT) 456
