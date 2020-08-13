@@ -41,9 +41,9 @@
     - [x] Trendlines
     - [x] The Fan Principle
     - [x] The Importance of the Number Three
-    - [x] The Relative Steepness of the Trend Line 076 ***
+    - [x] The Relative Steepness of the Trend Line 076
       - How to Adjust Trendlines 077 18% 07:05
-    - [ ] The Channel Line 80
+    - [ ] The Channel Line 80 ***
     - [ ] Percentage Retracements
     - [ ] Speed Resistance Lines
     - [ ] Gann and Fibonacci Fan Lines
