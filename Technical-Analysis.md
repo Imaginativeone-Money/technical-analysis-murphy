@@ -4,7 +4,7 @@
 - [ ] About the Contributors
 - [ ] Introduction xxvii
 - [ ] Acknowledgements xxxi
-  - [x] 01 Philosophy of Technical Analysis
+  - [x] 01 Philosophy of Technical Analysis 001/542 003%
     - [x] Flexibility and Adaptability of Technical Analysis
     - [x] Technical Analysis Applied to Different Trading Mediums
     - [x] Technical Analysis Applied to Different Time Dimensions
@@ -15,7 +15,7 @@
     - [x] Some Criticisms of the Technical Approach
     - [x] Random Walk Theory
     - [x] Universal Principles
-  - [x] 02 Dow Theory
+  - [x] 02 Dow Theory 023/542 008%
     - [x] Introduction 23
     - [x] Basic Tenets 24
     - [x] The Use of Closing Prices and the Presence of Lines 030
@@ -33,7 +33,7 @@
     - [x] Futures Open Interest
     - [x] Weekly and Monthly Bar Charts
     - [x] Conclusion
-  - [ ] 04 Basic Concepts of Trend
+  - [ ] 04 Basic Concepts of Trend 
     - [x] Definition of Trend
     - [x] Trend has Three Directions
     - [x] Trend has Three Classifications
