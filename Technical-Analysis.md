@@ -52,11 +52,12 @@
     - [x] Price Gaps
     - [x] Conclusion
   - [ ] 05 Major Reversal Patterns 099/543 22% August 13, 2020 - August 13, 2020
-    - [ ] Introduction 99
+    - [x] Introduction 99
       - We're now ready to take the next step, which is a study of chart patterns.
       - It is (these) periods of sideways market movement that will concern us most in these next two chapters.
       - It is a mistake to assume that most changes in trend are very abrupt affairs.
     - [ ] Price Patterns 99 22% ***
+      - <font color="orange">The study of these transition periods and their forecasting implications leads us to the question of price patterns.</font>
     - [ ] Two Types of Patterns: Reversal and Continuation
     - [ ] The Head and Shoulders Continuation Pattern
     - [ ] The Importance of Volume
