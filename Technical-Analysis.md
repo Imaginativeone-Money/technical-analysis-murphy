@@ -56,9 +56,22 @@
       - We're now ready to take the next step, which is a study of chart patterns.
       - It is (these) periods of sideways market movement that will concern us most in these next two chapters.
       - It is a mistake to assume that most changes in trend are very abrupt affairs.
-    - [ ] Price Patterns 99 22% ***
-      - <h4 style="color:"orange">The study of these transition periods and their forecasting implications leads us to the question of price patterns.</h4>
-    - [ ] Two Types of Patterns: Reversal and Continuation
+    - [ ] Price Patterns 99 22%
+      - The study of these transition periods and their forecasting implications leads us to the question of price patterns.
+      - First of all, what are price patterns?
+
+    ** Return to these Notes **
+    - [ ] Two Types of Patterns: Reversal and Continuation ***
+      - Reversal patterns indicate than an important reversal trend is taking place.
+      - The trick is to distinguish between the two types of patterns as early as possible during the formation of the pattern.
+        - head and shoulders
+        - triple tops and bottoms
+        - double tops and bottoms
+        - spike (or V) tops and bottoms
+        - the rounding (or saucer) pattern
+      - We will examine the price formation itself, how it is formed on the chart, and how it can be identified.
+      - Preliminary Points Common to All Reversal Patterns
+
     - [ ] The Head and Shoulders Continuation Pattern
     - [ ] The Importance of Volume
     - [ ] Finding a Price Objective
