@@ -44,16 +44,19 @@
     - [x] The Relative Steepness of the Trend Line 076
       - How to Adjust Trendlines 077 18% 07:05
     - [x] The Channel Line 80 19%
-    - [x] Percentage Retracements 85 19% ***
+    - [x] Percentage Retracements 85 19%
     - [x] Speed Resistance Lines
     - [x] Gann and Fibonacci Fan Lines
     - [x] Internal Trend Lines
     - [x] Reversal Days
     - [x] Price Gaps
     - [x] Conclusion
-  - [ ] 05 Major Reversal Patterns 099/543
-    - [ ] Introduction ***
-    - [ ] Price Patterns
+  - [ ] 05 Major Reversal Patterns 099/543 22% August 13, 2020 - August 13, 2020
+    - [ ] Introduction 99
+      - We're now ready to take the next step, which is a study of chart patterns.
+      - It is (these) periods of sideways market movement that will concern us most in these next two chapters.
+      - It is a mistake to assume that most changes in trend are very abrupt affairs.
+    - [ ] Price Patterns 99 22% ***
     - [ ] Two Types of Patterns: Reversal and Continuation
     - [ ] The Head and Shoulders Continuation Pattern
     - [ ] The Importance of Volume
