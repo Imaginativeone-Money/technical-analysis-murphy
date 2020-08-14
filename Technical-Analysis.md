@@ -44,15 +44,15 @@
     - [x] The Relative Steepness of the Trend Line 076
       - How to Adjust Trendlines 077 18% 07:05
     - [x] The Channel Line 80 19%
-    - [ ] Percentage Retracements 85 19% ***
-    - [ ] Speed Resistance Lines
-    - [ ] Gann and Fibonacci Fan Lines
-    - [ ] Internal Trend Lines
-    - [ ] Reversal Days
-    - [ ] Price Gaps
-    - [ ] Conclusion
+    - [x] Percentage Retracements 85 19% ***
+    - [x] Speed Resistance Lines
+    - [x] Gann and Fibonacci Fan Lines
+    - [x] Internal Trend Lines
+    - [x] Reversal Days
+    - [x] Price Gaps
+    - [x] Conclusion
   - [ ] 05 Major Reversal Patterns 099/543
-    - [ ] Introduction
+    - [ ] Introduction ***
     - [ ] Price Patterns
     - [ ] Two Types of Patterns: Reversal and Continuation
     - [ ] The Head and Shoulders Continuation Pattern
