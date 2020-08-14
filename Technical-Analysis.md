@@ -57,7 +57,7 @@
       - It is (these) periods of sideways market movement that will concern us most in these next two chapters.
       - It is a mistake to assume that most changes in trend are very abrupt affairs.
     - [ ] Price Patterns 99 22% ***
-      - <font color="orange">The study of these transition periods and their forecasting implications leads us to the question of price patterns.</font>
+      - <h4 style="color:"orange">The study of these transition periods and their forecasting implications leads us to the question of price patterns.</h4>
     - [ ] Two Types of Patterns: Reversal and Continuation
     - [ ] The Head and Shoulders Continuation Pattern
     - [ ] The Importance of Volume
